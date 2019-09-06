@@ -1,0 +1,13 @@
+{
+  "id": "intercom",
+  "name": "Intercom",
+  "version": "1.0.0",
+  "description": "Intercom Conversations",
+  "main": "index.js",
+  "author": "Jerry Shikanga <jerryshikanga@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/jerryshikanga/franz-intercom-plugin",
+  "config": {
+    "serviceURL": "https://app.intercom.io/"
+  }
+}
